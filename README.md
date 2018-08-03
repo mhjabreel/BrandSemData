@@ -2,7 +2,7 @@
 
 ### Download the tweets
 
-- You can use the follwoing API to download the tweets given thier Ids:
+- •	The tweets can be downloaded given their IDs using the following API:
 
   https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/get-statuses-show-id
 
